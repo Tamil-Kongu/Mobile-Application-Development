@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Dream</string>
+    <string-array name="space">
+        <item>ISRO</item>
+        <item>SPACEX</item>
+        <item>BLUE ORIGIN</item>
+    </string-array>
+    <string name = "India">
+        India, officially the Republic of India, is a country in South Asia.\n It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.
+    </string>
+
+</resources>
