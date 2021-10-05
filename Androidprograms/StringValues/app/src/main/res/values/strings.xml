@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StringValues</string>
+    <string name="button1" >LOGIN </string>
+    <string-array name="dept">
+        <item>EEE</item>
+        <item>CIVIL</item>
+        <item>CSE</item>
+    </string-array>
+  </resources>
